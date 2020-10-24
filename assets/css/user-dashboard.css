@@ -3,10 +3,11 @@
 01. aside / sidebar
 ------------------------------------------------------------------- */
 
+/* Aside / Sidebar */
+
 body.user-dashboard {
 
-}
-/* Aside / Sidebar */
+} 
 body.user-dashboard aside ul li.active {
   background-color: #F2994A !important;
   border-radius:.25rem!important;
